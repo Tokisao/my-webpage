@@ -62,6 +62,3 @@ I learned how to structure a webpage with semantic HTML, separate content from p
 
 ## Link
 https://github.com/Tokisao/my-webpage
-
-## Link
-https://github.com/Tokisao/my-webpage
