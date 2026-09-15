@@ -15,7 +15,7 @@ Create a webpage using HTML and CSS, covering basic and intermediate concepts â€
    Used an ordered list `<ol>` for hobbies and an unordered list `<ul>` for favorite sites, with clickable `<a>` links inside.
 
 4. **Inserted an image and interactive buttons.**
-   Added a personal photo via `<img>` and a few `<button>` elements at the bottom of the page.
+   Added a photo via `<img>` and a few `<button>` elements at the bottom of the page.
 
 5. **Created a schedule table.**
    Built a 3-column table (`Subject`, `Day`, `Time`) and filled it with my weekly class schedule.
